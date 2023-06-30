@@ -1,8 +1,17 @@
-<p align="center"><img src="./Screenshot_Unity_VR_Template_Jonatandb.gif" alt="Unity VR Template by Jonatandb"></p>
+# Escape Ratonil by Jonatandb
+
+<p align="center"><img src="./Screenshot_EscapeRatonil_Jonatandb.gif" alt="Escape Ratonil by Jonatandb"></p>
+
+---
+### Agregado:
+- Movimiento continuo
+- Movimiento por turnos
+- Capacidad de colisionar con los objetos del entorno
 
 ---
 
-## Pasos a ejecutar en Unity 2021.3.27f1
+
+##### Pasos a ejecutar en Unity 2021.3.27f1 para crear un proyecto básico de VR con XR Iteraction Toolkit:
 
 - Crear proyecto "3D"
 
@@ -67,5 +76,7 @@
 
 ---
 
-### Referencia:
+### Referencias:
 - [Crea un juego VR en Unity | Configura tu primer proyecto | XR Interaction toolkit | Oculus Quest](https://www.youtube.com/watch?v=apL9lIkKLHQ) (Gracias a MadAcorn! 🙏🏻)
+- [Crea un juego VR en Unity | Movimiento continuo del jugador | XR Interaction toolkit | Oculus Quest](https://www.youtube.com/watch?v=706Bx0hutM0) (Gracias a MadAcorn! 🙏🏻)
+
