@@ -1,3 +1,7 @@
+<p align="center"><img src="./Screenshot_Unity_VR_Template_Jonatandb.gif" alt="Unity VR Template by Jonatandb"></p>
+
+---
+
 ## Pasos a ejecutar en Unity 2021.3.27f1
 
 - Crear proyecto "3D"
