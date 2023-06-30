@@ -64,3 +64,8 @@
 	- Simplemente vincular el Oculus con link (por cable o wifi)
 		Una vez conectado a la PC, presionar el botón Play en Unity
 		Se debe ver en el Oculus inmediatamente el entorno virtual recién creado :-)
+
+---
+
+### Referencia:
+- [Crea un juego VR en Unity | Configura tu primer proyecto | XR Interaction toolkit | Oculus Quest](https://www.youtube.com/watch?v=apL9lIkKLHQ) (Gracias a MadAcorn! 🙏🏻)
